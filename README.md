@@ -30,3 +30,5 @@ python main.py /path/to/folder --watch
 # Show summary of organized files
 python main.py /path/to/folder --summary
 ```
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
